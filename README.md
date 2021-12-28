@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Grocery List Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is made using React.
+
+## Project Screenshot
+
+![](https://github.com/m-sehrawat/Grocery-List-Management-App/blob/master/public/grocery-list.png)
 
 ## Available Scripts
 
