@@ -1,0 +1,14 @@
+.inputBoxSize {
+    width: 500px;
+    margin: auto;
+}
+
+.gridBox {
+    display: grid;
+    grid-template-columns: repeat(3, 23%);
+    max-width: 800px;
+    margin: 30px auto;
+    gap: 20px;
+    justify-content: center;
+
+}
