@@ -21,5 +21,5 @@ export const GroceryInput = ({ getData }) => {
                 <button onClick={handleAdd} className="btn btn-outline-success">Add</button>
             </div>
         </div>
-    )
-}
+    );
+};
