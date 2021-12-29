@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Grocery-List-Management-App/static/css/main.662be56b.css",
+    "main.js": "/Grocery-List-Management-App/static/js/main.0f7f2415.js",
+    "index.html": "/Grocery-List-Management-App/index.html",
+    "main.662be56b.css.map": "/Grocery-List-Management-App/static/css/main.662be56b.css.map",
+    "main.0f7f2415.js.map": "/Grocery-List-Management-App/static/js/main.0f7f2415.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.662be56b.css",
+    "static/js/main.0f7f2415.js"
+  ]
+}
